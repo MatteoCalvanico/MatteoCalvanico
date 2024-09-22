@@ -30,5 +30,4 @@
   </a>
 </div>
 
-![GitHub Snake Light](https://raw.githubusercontent.com/MatteoCalvanico/MatteoCalvanico/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://raw.githubusercontent.com/MatteoCalvanico/MatteoCalvanico/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
