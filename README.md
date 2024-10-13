@@ -15,7 +15,7 @@
 
 - 📫 You can reach me here: **matteo.calvanico@studio.unibo.it OR matteo.calvanico.dev@gmail.com**
 
-- 📄 I am studying "[Tecnologie dei Sistemi informatici](https://corsi.unibo.it/laurea/TecnologieSistemiInformatici)" at Unibo
+- 📄 I am studying "[Computer System Technologies](https://corsi.unibo.it/laurea/TecnologieSistemiInformatici)" at Unibo
 
 - ⚡ Fun fact **my passions are: videogames, cinema and the gym**
 
