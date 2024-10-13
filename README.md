@@ -11,7 +11,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matteocalvanico&theme=dark_lover&margin-w=15&margin-h=15&row=1" alt="matteocalvanico" /></a> </p>
 
-- 👨‍💻 All of my projects are available here: **[Uni projects](https://github.com/stars/MatteoCalvanico/lists/uni-project) OR [Personal projects](https://github.com/stars/MatteoCalvanico/lists/personal-projects)**
+- 👨‍💻 All of my projects are available here: **[Uni projects](https://github.com/stars/MatteoCalvanico/lists/uni-projects) OR [Personal projects](https://github.com/stars/MatteoCalvanico/lists/personal-projects)**
 
 - 📫 You can reach me here: **matteo.calvanico@studio.unibo.it OR matteo.calvanico.dev@gmail.com**
 
