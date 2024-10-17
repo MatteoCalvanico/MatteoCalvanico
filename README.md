@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available here **[Uni projects](https://github.com/stars/MatteoCalvanico/lists/uni-projects)/[Personal projects](https://github.com/stars/MatteoCalvanico/lists/personal-projects)**
 
-- 📫 How can you reach me: **matteo.calvanico@studio.unibo.it OR matteo.calvanico.dev@gmail.com**
+- 📫 How you can reach me: **matteo.calvanico@studio.unibo.it OR matteo.calvanico.dev@gmail.com**
 
 - 🧑‍🎓 I am studying "[Computer System Technologies](https://corsi.unibo.it/laurea/TecnologieSistemiInformatici)" at Unibo
 
