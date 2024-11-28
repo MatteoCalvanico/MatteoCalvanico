@@ -59,8 +59,8 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/MatteoCalvanico">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=MatteoCalvanico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCalvanico&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=MatteoCalvanico&theme=dracula&show_icons=true&hide_border=false&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCalvanico&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </div>
 
