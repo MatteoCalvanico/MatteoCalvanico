@@ -19,7 +19,7 @@
 
 - ❤️ My passions are: **videogames, cinema and the gym**
 
-- 🖥️ Visit my portfolio [here](https://matteocalvanico.github.io/AngularPortfolio/)
+- 🖥️ Visit my portfolio **[here](https://matteocalvanico.github.io/AngularPortfolio/)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
