@@ -2,21 +2,11 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MatteoCalvanico&color=red&label=Profile%20views&abbreviated=true&style=for-the-badge" />
   <br/>
-  <a href="https://www.linkedin.com/in/matteo-calvanico/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/matteo.calvanico/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:matteo.calvanico.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/il_calv">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/matteocalvanico/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
-  </a>
+  <a href="https://www.linkedin.com/in/matteo-calvanico/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/matteo.calvanico/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:matteo.calvanico.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/il_calv"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/matteocalvanico/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 </div>
 
 <br/>
@@ -78,12 +68,8 @@
   -->
 
 <div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/MatteoCalvanico">
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=MatteoCalvanico&theme=transparent&show_icons=true&hide_border=false&count_private=true"/>
-  </a>
-  <a href="https://github.com/MatteoCalvanico">
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCalvanico&layout=compact&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook"/>
-  </a>
+  <a href="https://github.com/MatteoCalvanico"><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=MatteoCalvanico&theme=transparent&show_icons=true&hide_border=false&count_private=true"/></a>
+  <a href="https://github.com/MatteoCalvanico"><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCalvanico&layout=compact&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook"/></a>
 </div>
 <br/>
 <br/>
