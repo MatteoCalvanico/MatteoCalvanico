@@ -1,14 +1,25 @@
-<h1 align="center">Hi, I'm Matteo <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br></h1>
-<h3 align="center">Welcome to my profile, you can contact me in Italian and English</h3>
-
+<h1 align="center">Welcome stranger, I'm Matteo <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br></h1>
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=matteocalvanico&label=Profile%20views&color=0D0D0D&style=flat" alt="matteocalvanico" />
-
-[![Linkedin Badge](https://img.shields.io/badge/-matteocalvanico-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteocalvanico/)](https://www.linkedin.com/in/matteo-calvanico/)  [![Instagram Badge](https://img.shields.io/badge/-matteo.calvanico-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/matteo.calvanico/)](https://instagram.com/matteo.calvanico) [![Gmail Badge](https://img.shields.io/badge/-matteo.calvanico.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=matteo.calvanico.dev@gmail.com)](mailto:matteo.calvanico.dev@gmail.com) [![X Badge](https://img.shields.io/badge/-il_calv-black?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/il_calv)](https://twitter.com/il_calv)
-
+  <img src="https://komarev.com/ghpvc/?username=MatteoCalvanico&color=red&label=Profile%20views&abbreviated=true&style=for-the-badge" />
+  <br/>
+  <a href="https://www.linkedin.com/in/matteo-calvanico/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/matteo.calvanico/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:matteo.calvanico.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/il_calv">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/matteocalvanico/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+  </a>
 </div>
 
+<br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matteocalvanico&theme=darkhub&margin-w=15&margin-h=15&row=1" alt="matteocalvanico" /></a> </p>
 
 - 👨‍💻 All of my projects are available here **[Uni projects](https://github.com/stars/MatteoCalvanico/lists/uni-projects)/[Personal projects](https://github.com/stars/MatteoCalvanico/lists/personal-projects)**
