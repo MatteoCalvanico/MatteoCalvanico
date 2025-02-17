@@ -9,7 +9,7 @@
 
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matteocalvanico&theme=transparent&margin-w=15&margin-h=15&row=1" alt="matteocalvanico" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matteocalvanico&theme=darkhub&margin-w=15&margin-h=15&row=1" alt="matteocalvanico" /></a> </p>
 
 - 👨‍💻 All of my projects are available here **[Uni projects](https://github.com/stars/MatteoCalvanico/lists/uni-projects)/[Personal projects](https://github.com/stars/MatteoCalvanico/lists/personal-projects)**
 
@@ -68,10 +68,10 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/MatteoCalvanico">
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=MatteoCalvanico&theme=theme=transparent&show_icons=true&hide_border=false&count_private=true"/>
+    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=MatteoCalvanico&theme=transparent&show_icons=true&hide_border=false&count_private=true"/>
   </a>
   <a href="https://github.com/MatteoCalvanico">
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCalvanico&layout=compact&langs_count=8&theme=theme=transparent&hide=css,html,scss,jupyter%20notebook"/>
+    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCalvanico&layout=compact&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook"/>
   </a>
 </div>
 <br/>
