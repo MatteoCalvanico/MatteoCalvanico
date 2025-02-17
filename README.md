@@ -20,7 +20,7 @@
 </div>
 
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matteocalvanico&theme=darkhub&margin-w=15&margin-h=15&row=1" alt="matteocalvanico" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matteocalvanico&theme=darkhub&margin-w=15&margin-h=15&row=1" alt="matteocalvanico" /></a></p>
 
 - 👨‍💻 All of my projects are available here **[Uni projects](https://github.com/stars/MatteoCalvanico/lists/uni-projects)/[Personal projects](https://github.com/stars/MatteoCalvanico/lists/personal-projects)**
 
@@ -32,7 +32,7 @@
 
 - 🖥️ Visit my portfolio **[here](https://matteocalvanico.github.io/AngularPortfolio/)**
 
-<h3 align="left">Languages and Tools:</h3>
+## Skills & Stats
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,angular,ansible,arduino,bash,bootstrap,c,cs,cpp,css,docker,dotnet,express,figma,git,github,gitlab,gradle,godot,html,idea,java,js,jenkins,kotlin,kubernetes,latex,mysql,nodejs,npm,opencv,postman,py,pytorch,sass,spring,sqlite,sklearn,tensorflow,ts,visualstudio,vscode,vue," />
