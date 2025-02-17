@@ -22,6 +22,14 @@
 - 🖥️ Visit my portfolio **[here](https://matteocalvanico.github.io/AngularPortfolio/)**
 
 <h3 align="left">Languages and Tools:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,angular,ansible,arduino,bash,bootstrap,c,cs,cpp,css,docker,dotnet,express,figma,git,github,gitlab,gradle,godot,html,idea,java,js,jenkins,kotlin,kubernetes,latex,mysql,nodejs,npm,opencv,postman,py,pytorch,sass,spring,sqlite,sklearn,tensorflow,ts,visualstudio,vscode,vue," />
+  </a>
+</p>
+
+<!--
 <p align="center"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> 
@@ -57,6 +65,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="vagrant" width="40" height="40"/></a> </p>
+  -->
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/MatteoCalvanico">
