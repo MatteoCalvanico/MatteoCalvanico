@@ -25,7 +25,7 @@
 ## Skills & Stats
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,angular,ansible,arduino,bash,bootstrap,c,cs,cpp,css,docker,dotnet,express,figma,git,github,gitlab,gradle,godot,html,idea,java,js,jenkins,kotlin,kubernetes,latex,mysql,nodejs,npm,opencv,postman,py,pytorch,sass,spring,sqlite,sklearn,tensorflow,ts,visualstudio,vscode,vue," />
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,angular,ansible,arduino,bash,bootstrap,c,cs,cpp,css,docker,dotnet,express,figma,git,github,gitlab,gradle,godot,html,idea,java,js,jenkins,kotlin,kubernetes,latex,mysql,nodejs,npm,opencv,postman,py,pytorch,sass,spring,sqlite,sklearn,tensorflow,ts,visualstudio,vscode,vue,jest,rabbitmq,mongodb," />
   </a>
 </p>
 
