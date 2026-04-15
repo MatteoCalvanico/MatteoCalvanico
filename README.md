@@ -80,4 +80,5 @@
   </a>
   <br/>
   <sub align="center">Snake...</sub>
+  <sub align="center">Swaths of my contrib graph are missing due to me committing to forks & wanting to maintain the parent link. https://github.com/orgs/community/discussions/45474</sub>
 </div>
