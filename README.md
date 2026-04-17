@@ -10,7 +10,7 @@
 </div>
 
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matteocalvanico&theme=darkhub&margin-w=15&margin-h=15&row=1" alt="matteocalvanico" /></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-sigma-one.vercel.app/?username=matteocalvanico&theme=darkhub&margin-w=15&margin-h=15&row=1" alt="matteocalvanico" /></a></p>
 
 - 👨‍💻 All of my projects are available here **[Uni projects](https://github.com/stars/MatteoCalvanico/lists/uni-projects)/[Personal projects](https://github.com/stars/MatteoCalvanico/lists/personal-projects)**
 
