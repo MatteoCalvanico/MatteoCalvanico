@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,angular,ansible,arduino,bash,bootstrap,c,cs,cpp,css,docker,dotnet,express,figma,git,github,gitlab,gradle,godot,html,idea,java,js,jenkins,kotlin,kubernetes,latex,mysql,nodejs,npm,opencv,postman,py,pytorch,sass,spring,sqlite,sklearn,tensorflow,ts,visualstudio,vscode,vue,jest,rabbitmq,mongodb,aws,firebase," />
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,angular,arduino,bash,bootstrap,c,cs,cpp,css,docker,dotnet,express,git,gradle,godot,html,java,js,kotlin,latex,mysql,nodejs,npm,opencv,py,pytorch,sass,spring,sqlite,sklearn,tensorflow,ts,vue,jest,rabbitmq,mongodb,aws,firebase," />
   </a>
 </p>
 
@@ -69,8 +69,8 @@
   -->
 
 <div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/MatteoCalvanico"><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=MatteoCalvanico&theme=transparent&show_icons=true&hide_border=false&count_private=true"/></a>
-  <a href="https://github.com/MatteoCalvanico"><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCalvanico&layout=compact&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook"/></a>
+  <!--<a href="https://github.com/MatteoCalvanico"><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=MatteoCalvanico&theme=transparent&show_icons=true&hide_border=false&count_private=true"/></a>-->
+  <a href="https://github.com/MatteoCalvanico"><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCalvanico&layout=compact&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook,tex"/></a>
 </div>
 <br/>
 <br/>
