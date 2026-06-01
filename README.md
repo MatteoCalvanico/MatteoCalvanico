@@ -22,7 +22,16 @@
 
 - 🖥️ Visit my portfolio **[here](https://matteocalvanico.github.io/AngularPortfolio/)**
 
+## My Work Environment
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=macos,visualstudiocode,zshell,bruno,codex,githubcopilot,slack" />
+  </a>
+</p>
+
 ## Skills & Stats
+
+<!--https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,anaconda,androidstudio,angularjs,arduino,bash,mongodb,bootstrap,vite,c,cpp,csharp,css3,docker,dotnet,expressjs,firebase,git,githubactions,godot,gradle,grafana,html,latex,javascript,java,jest,jupyter,kotlin,nodejs,opencv,python,pytorch,reactjs,rabbitmq,sass,scikitlearn,sql,sqlite,tailwindcss,typescript,vuejs,npm-->
 
 <p align="center">
   <a href="https://skillicons.dev">
