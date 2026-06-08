@@ -31,7 +31,7 @@
 
 ## Skills & Stats
 
-<!--https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,anaconda,androidstudio,angularjs,arduino,bash,mongodb,bootstrap,vite,c,cpp,csharp,css3,docker,dotnet,expressjs,firebase,git,githubactions,godot,gradle,grafana,html,latex,javascript,java,jest,jupyter,kotlin,nodejs,opencv,python,pytorch,reactjs,rabbitmq,sass,scikitlearn,sql,sqlite,tailwindcss,typescript,vuejs,npm-->
+<!--https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,anaconda,androidstudio,angularjs,arduino,bash,mongodb,bootstrap,vite,c,cpp,csharp,css3,docker,dotnet,expressjs,firebase,git,githubactions,godot,gradle,grafana,html,latex,javascript,java,jest,jupyter,kotlin,nodejs,opencv,python,pytorch,reactjs,rabbitmq,sass,scikitlearn,sql,sqlite,tailwindcss,typescript,vuejs,npm,hubspot-->
 
 <p align="center">
   <a href="https://skillicons.dev">
