@@ -48,7 +48,7 @@
   -->
 
 <div align="center" style="display: flex; justify-content: center;">
-  <!--<a href="https://github.com/MatteoCalvanico"><img height="200px" align="center" src="https://github-stats-extended.vercel.app/api?username=MatteoCalvanico&theme=transparent&show_icons=true&hide_border=false&count_private=true"/></a>-->
+  <a href="https://github.com/MatteoCalvanico"><img height="200px" align="center" src="https://streak-stats.demolab.com?user=MatteoCalvanico&theme=transparent&hide_border=false"/></a>
   <a href="https://github.com/MatteoCalvanico"><img height="200px" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatteoCalvanico&layout=compact&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook,tex"/></a>
 </div>
 <br/>
