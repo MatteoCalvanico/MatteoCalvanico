@@ -39,6 +39,10 @@
   </a>
 </p>
 
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://gitfut.com/MatteoCalvanico"><img src="https://gitfut.com/MatteoCalvanico.png" width="120" alt="GitFut card"></a>
+</div>
+
 <!--
 <p align="center">
   <a href="https://skillicons.dev">
