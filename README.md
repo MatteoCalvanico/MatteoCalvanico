@@ -53,9 +53,11 @@
 </div>
 <br/>
 <br/>
+<!--
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://gitfut.com/MatteoCalvanico"><img src="https://gitfut.com/MatteoCalvanico.png" width="120" alt="GitFut card"></a>
 </div>
+-->
 <div align="center">
   <a>
     <img align="center" src="https://github.com/MatteoCalvanico/MatteoCalvanico/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
