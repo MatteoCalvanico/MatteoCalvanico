@@ -1,6 +1,6 @@
 <h1 align="center">Welcome stranger, I'm Matteo <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br></h1>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MatteoCalvanico&color=red&label=Profile%20views&abbreviated=true&style=for-the-badge" />
+  <img src="https://trophy.ryglcloud.net?username=MatteoCalvanico&theme=aura&column=9" />
   <br/>
   <a href="https://www.linkedin.com/in/matteo-calvanico/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/matteo.calvanico/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
