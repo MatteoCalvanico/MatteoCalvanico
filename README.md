@@ -22,7 +22,7 @@
 
 - ❤️ My passions are: **videogames, cinema and the gym**
 
-- 🖥️ Visit my portfolio **[here](https://matteocalvanico.github.io/AngularPortfolio/)**
+- 🖥️ Visit my portfolio **[here](https://matteocalvanico.github.io/PS3Portfolio/)**
 
 ## My Work Environment
 <p align="center">
